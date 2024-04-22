@@ -1,6 +1,6 @@
 title: "sample"
-summary: ""
-topics: []
+summary: "sample summary"
+topics: ["tutorial"]
 published: false
 price: 0 # 有料の場合200〜5000
 # 本に含めるチャプターを順番に並べましょう
